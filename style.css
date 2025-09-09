@@ -1,0 +1,34 @@
+body {
+    font-size: 15pt;
+}
+
+.header, .footer{
+    background: #bbb;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    min-height: 400px;
+}
+
+.sidebar {
+    background: #ddd;
+    width: 25%;
+    padding: 15px;
+}
+
+.content {
+    background: #f1f1f1;
+    flex:1;
+    padding: 15px;
+}
+
+.kotak {
+    background: #bbb;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    border: 1px solid #888;
+}
