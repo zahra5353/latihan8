@@ -32,3 +32,14 @@ body {
     text-align: center;
     border: 1px solid #888;
 }
+
+.sidebar a {
+ background: #bbb;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    border: 1px solid #888;
+   display: block;
+   text-decoration: none;
+   color: #876;
+}
